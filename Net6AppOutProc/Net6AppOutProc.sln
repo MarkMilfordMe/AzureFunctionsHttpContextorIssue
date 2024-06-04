@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net6AppOutProc", "Net6AppOutProc.csproj", "{FA744971-29E2-45B4-A573-9540BE7E5DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA744971-29E2-45B4-A573-9540BE7E5DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA744971-29E2-45B4-A573-9540BE7E5DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA744971-29E2-45B4-A573-9540BE7E5DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA744971-29E2-45B4-A573-9540BE7E5DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71C9586-331D-4B65-AF67-032757DB6825}
+	EndGlobalSection
+EndGlobal
